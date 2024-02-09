@@ -1,0 +1,26 @@
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+
+.tet{
+  background-image: url(./images/testmonials_bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.hd {
+  background-image: url(./images/mac_image.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.pr {
+  background-image: url(./images/testmonials2_bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
